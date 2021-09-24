@@ -1,0 +1,118 @@
+body{
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470);
+    border: 30px solid palevioletred
+    
+}
+
+.gambar {
+    text-align: center;
+}
+
+.gambar>.ukuran-gambar {
+    width: 270px;
+    height: 270px;
+    border-radius: 100%;
+   
+}
+.pembuka{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.identitas {
+    background-color: pink;
+    font-size: 20px;
+    font-weight: 400;
+    width: 90%;
+    border: 10px solid palevioletred;
+}
+
+.link {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 5px;
+}
+
+.link-2 {
+    font-weight: 700;
+    line-height: 5px;
+}
+
+.link-3 {
+    font-weight: 700;
+    line-height: 5px;
+}
+
+table {
+    background-color:pink;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+
+
+.pertama {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 5px;
+
+}
+
+.kedua {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 5px;
+}
+
+.ketiga {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 5px;
+}
+
+.keempat {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 30px;
+}
+
+.ke-1 {
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+
+.ke-2 {
+    font-size: 20px;
+    font-weight: 700;
+
+   
+}
+
+.ke-3 {
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+
+.ke-4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 30px;
+
+}
+
+
+
+
+
